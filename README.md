@@ -16,5 +16,5 @@
 - 想办法多骗点star⭐😋
 
 #### 联系方式 📫
--[Email Address] mountchicken@outlook.com
+- mountchicken@outlook.com
 
