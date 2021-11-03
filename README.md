@@ -12,7 +12,7 @@
 - Domain Generalization
 
 #### 未来打算做什么
-- 追回我失去的人
+- Going back to the start
 
 #### 联系方式 📫
 - mountchicken@outlook.com
