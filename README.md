@@ -10,11 +10,11 @@
 ![MC GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&show_icons=true)
 #### 我在学什么 🌱
 - OCR
-- Transformers
+- GAN
 - Domain Generalization
 
 #### 未来打算做什么
-- Going back to the start
+- 努力做研究，探索广袤的深度学习
 
 #### 联系方式 📫
 - mountchicken@outlook.com
