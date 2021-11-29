@@ -11,11 +11,13 @@
 #### 我在学什么 🌱
 - OCR
 - GAN
-- Domain Generalization
+- Domain Generalization\
+- Normalizations
 
 #### 未来打算做什么
 - 努力做研究，探索广袤的深度学习
 
 #### 联系方式 📫
 - mountchicken@outlook.com
+- Wechat: jq927922033
 
