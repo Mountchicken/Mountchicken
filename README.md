@@ -1,5 +1,4 @@
 ### Hello Guys! 👋😀
-## 今年就要结束啦，小蒋也要加油呢🥰
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mountchicken.Mountchicken)
 #### 我是谁 🔭
