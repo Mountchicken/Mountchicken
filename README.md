@@ -11,7 +11,7 @@
 #### 我在学什么 🌱
 - OCR
 - GAN
-- Domain Generalization\
+- Domain Generalization
 - Normalizations
 
 #### 未来打算做什么
