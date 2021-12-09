@@ -1,5 +1,4 @@
 ### Hello Guys! 👋😀
-# 每个优秀的人都有一段沉默的时光，那段时光，是付出了很多努力，却得不到结果的日子。我们把它叫做扎根
 ![img](cover.jpg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mountchicken.Mountchicken)
 #### 我是谁 🔭
