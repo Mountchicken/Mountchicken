@@ -1,5 +1,5 @@
 ### Hello Guys! 👋😀
-![img](cover.jpg)
+![img](cover2.jpg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mountchicken.Mountchicken)
 #### 我是谁 🔭
 - 华南理工大学在读大四臭👶👶
