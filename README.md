@@ -1,10 +1,10 @@
 ### Hello Guys! 👋😀
 ## Happy 2022!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mountchicken.Mountchicken)
-![img](img/1.JPG)
-![img](img/2.JPG)
-![img](img/3.JPG)
-![img](img/4.JPG)
+![img](1.JPG)
+![img](2.JPG)
+![img](3.JPG)
+![img](4.JPG)
 #### 我是谁 🔭
 - 华南理工大学在读大四臭👶👶
 - 不会焊电路板的电信学生😄
