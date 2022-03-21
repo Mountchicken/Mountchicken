@@ -8,7 +8,7 @@
 - 溺死在DL大海的🏄‍家
 - [Check Here](https://mountchicken.github.io/)
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-![MC GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&show_icons=true)
+![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&show_icons=true&theme=dracula)
 #### 我在学什么 🌱
 - OCR
 #### 联系方式 📫
