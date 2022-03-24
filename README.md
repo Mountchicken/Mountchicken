@@ -6,7 +6,6 @@
 - 华南理工大学在读大四臭👶👶
 - 不会焊电路板的电信学生😄
 - 溺死在DL大海的🏄‍家
-- [Check Here](https://mountchicken.github.io/)
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 ![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&show_icons=true&theme=dracula&count_private=true)
 
