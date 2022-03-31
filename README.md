@@ -14,5 +14,5 @@
 - OCR
 #### 联系方式 📫
 - mountchicken@outlook.com
-- Wechat: jq927922033
+- Wechat: Opt1mus_J
 
