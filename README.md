@@ -10,8 +10,6 @@
 ![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mountchicken&layout=compact)
-#### 我在学什么 🌱
-- OCR
 #### 联系方式 📫
 - mountchicken@outlook.com
 - Wechat: Opt1mus_J
