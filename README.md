@@ -1,4 +1,4 @@
-### Hello Guys! 👋😀
+### Hello Guys! 🐸
 ## Happy 2022!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mountchicken.Mountchicken)
 
