@@ -6,5 +6,3 @@
 
 #### Contatct me 📫
 - mountchicken@outlook.com
-- Wechat: Opt1mus_J
-
