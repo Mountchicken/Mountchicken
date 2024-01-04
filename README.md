@@ -4,3 +4,5 @@
 - Email 📫: mountchicken@outlook.com
 
 ![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=dracula&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=Mountchicken)
