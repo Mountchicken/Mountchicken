@@ -14,7 +14,7 @@
 - **[Grounding DINO 1.5](https://github.com/IDEA-Research/Grounding-DINO-1.5-API)** ![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/Grounding-DINO-1.5-API) - Advance the "Edge" of Open-Set Object Detection
 - **[T-Rex](https://github.com/IDEA-Research/T-Rex)** ![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/T-Rex) - Counting by Visual Prompting
 
-#### I love everything about open-source projects  
+#### and I love everything about open-source projects  
 
 - **[Resophy](https://github.com/Mountchicken/Resophy)** ![GitHub stars](https://img.shields.io/github/stars/Mountchicken/Resophy) - Agentic Paper Reading Tool
 - **[CodeCookbook](https://github.com/Mountchicken/CodeCookbook)** ![GitHub stars](https://img.shields.io/github/stars/Mountchicken/CodeCookbook) - Cookbook to Craft Good Code
