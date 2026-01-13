@@ -21,6 +21,6 @@
 - **[MMOCR](https://github.com/open-mmlab/mmocr)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmocr) - OpenMMLab OCR Toolbox
 - **[Scene Text Recognition Recommendations](https://github.com/HCIILAB/Scene-Text-Recognition-Recommendations)** ![GitHub stars](https://img.shields.io/github/stars/HCIILAB/Scene-Text-Recognition-Recommendations) - Latest papers, datasets, and SOTA methods about OCR
 
-![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountchicken&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=dracula&count_private=true)
+| <a href="https://github.com/Mountchicken"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mountchicken&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Qing Jiang's github stats" /></a> | <a href="https://github.com/Mountchicken"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zliucz&theme=buefy&hide_border=true&layout=compact&hide=java,CSS&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
 
-![](https://komarev.com/ghpvc/?username=Mountchicken)
